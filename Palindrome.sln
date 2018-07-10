@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmitryAnufriev.Palindrome", "DmitryAnufriev.Palindrome\DmitryAnufriev.Palindrome.csproj", "{6ABB5475-8CA3-4721-833E-A22132CD4250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmitryAnufriev.Palindrome.CLI", "DmitryAnufriev.Palindrome.CLI\DmitryAnufriev.Palindrome.CLI.csproj", "{FA093418-40E7-4C81-AD53-06BAE4F31791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABB5475-8CA3-4721-833E-A22132CD4250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABB5475-8CA3-4721-833E-A22132CD4250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABB5475-8CA3-4721-833E-A22132CD4250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABB5475-8CA3-4721-833E-A22132CD4250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA093418-40E7-4C81-AD53-06BAE4F31791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA093418-40E7-4C81-AD53-06BAE4F31791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA093418-40E7-4C81-AD53-06BAE4F31791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA093418-40E7-4C81-AD53-06BAE4F31791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
